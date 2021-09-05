@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HolgerAusB
-- 👀 I’m interested in home automation, raspberry pi, plex media server
+- 👀 I’m interested in home automation with homebridge/homekit; other things that coul be done with raspberry pi; plex media server (not on the pi)
 - 🌱 I’m currently learning how to use github ;-) but didn't find a good German documentation yet
 - 💞️ I’m looking to collaborate on small projects. I am not a developper at all. But I can read simple code and transform them to my needs.
 <!---
